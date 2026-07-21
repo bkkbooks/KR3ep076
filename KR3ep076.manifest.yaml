@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ep076_001.yaml, hash: 'sha256:05036ecbc253ddd134b8d3be7babb60a842abc8ddbd560773e386bf3bcabcf07'}
+  - {seq: 1, filename: KR3ep076_001.yaml, hash: 'sha256:d4372f421f1c8bf14c7ba96c7856fefffe3d7ea808de46891b53928916b74dbd'}
   - {seq: 2, filename: KR3ep076_002.yaml, hash: 'sha256:880b5dd4e20d5d19d48e3f026cba5d47d64cb63643aebeea089115dbc301e616'}
   - {seq: 3, filename: KR3ep076_003.yaml, hash: 'sha256:686b4c0724087f7cf13cd0d702d760c5b2a4fef2dfcfcbb143c588ac0b9414d6'}
   - {seq: 4, filename: KR3ep076_004.yaml, hash: 'sha256:6a8e9691e796578271d4d794b531db5c5d9eeca1b7ff1a9cdd837dc08d9c15ff'}
   - {seq: 5, filename: KR3ep076_005.yaml, hash: 'sha256:e23eaac84c4b419fcdb914d717927b5e9745ea827b031125d8bfa1fb713f88cc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ep076_001.markers.yaml, hash: 'sha256:bb736c0a554318ccaa61669f818339f5b326a3febc1850bdc8743bfe5d9a2d85'}
+  - {seq: 1, role: markers, filename: assets/KR3ep076_001.markers.yaml, hash: 'sha256:7a4a1f8fcca596ce4b31850737e52b500b82ac4c8e47c01d85329b16c0d9528d'}
   - {seq: 2, role: markers, filename: assets/KR3ep076_002.markers.yaml, hash: 'sha256:7d21a2a94acc9363781a076cd60790a0a9d0893e56f23f634bfdc9ff0d2e123d'}
   - {seq: 3, role: markers, filename: assets/KR3ep076_003.markers.yaml, hash: 'sha256:8cb314ae1442f4082955a21291e73f3995958077cf391b134d5762f8f38afd59'}
   - {seq: 4, role: markers, filename: assets/KR3ep076_004.markers.yaml, hash: 'sha256:2c0458a53e3268aaaaf78ebd5b3b2501b97e48461f5f7eeb69ef4b469695230d'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ep076_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 373
   label: 序
@@ -599,7 +599,7 @@ table_of_contents:
   label: 集方
   type: section
   level: 1
-hash: sha256:52f974a96f10c7395e1239a243046796a0a7f8ebf1846d73ebd3dde12efede6e
+hash: sha256:cce6f727fb4c2de9e8089f2671ca4f5c53bbd43d1e8f2cc755aeb224226c3fba
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
